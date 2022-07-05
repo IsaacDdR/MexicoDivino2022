@@ -191,8 +191,9 @@
               :data-item-id="'Suscripcion'"
               :data-item-name="'Suscripcion Mexico Divino'"
               :data-item-price="499"
-              :data-item-payment-interval="'Month'"
-              :data-item-interval-count="1"
+              :data-item-payment-interval="Month"
+              :data-item-payment-interval-count="1"
+              :data-item-payman-trial="0"
             >
               Button
             </button>
