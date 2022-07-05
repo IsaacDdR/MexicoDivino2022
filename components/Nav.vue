@@ -6,7 +6,7 @@
       <ul class="flex items-center hidden space-x-8 lg:flex">
         <li>
           <NuxtLink
-            to="/blog"
+            to="/"
             aria-label="Blog"
             title="Blog"
             class="font-medium tracking-wide text-gray-700 transition-colors duration-200"
@@ -15,7 +15,7 @@
         </li>
         <li>
           <NuxtLink
-            to="/servicios"
+            to="/"
             aria-label="Servicios"
             title="Servicios"
             class="font-medium tracking-wide text-gray-700 transition-colors duration-200"

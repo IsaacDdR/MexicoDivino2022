@@ -52,6 +52,10 @@ export default {
     baseURL: "/",
   },
 
+  router: {
+    base: "/MexicoDivino2022/",
+  },
+
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
