@@ -1,0 +1,53 @@
+{
+  "name": "MexicoDivino2022",
+  "short_name": "MexicoDivino2022",
+  "description": "## Build Setup",
+  "icons": [
+    {
+      "src": "/MexicoDivino2022/_nuxt/icons/icon_64x64.61407e.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/MexicoDivino2022/_nuxt/icons/icon_120x120.61407e.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/MexicoDivino2022/_nuxt/icons/icon_144x144.61407e.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/MexicoDivino2022/_nuxt/icons/icon_152x152.61407e.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/MexicoDivino2022/_nuxt/icons/icon_192x192.61407e.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/MexicoDivino2022/_nuxt/icons/icon_384x384.61407e.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/MexicoDivino2022/_nuxt/icons/icon_512x512.61407e.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/MexicoDivino2022/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
