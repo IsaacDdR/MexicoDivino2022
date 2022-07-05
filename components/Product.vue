@@ -193,7 +193,7 @@
               :data-item-price="499"
               :data-item-payment-interval="Month"
               :data-item-payment-interval-count="1"
-              :data-item-payman-trial="0"
+              :data-item-payment-trial="0"
             >
               Button
             </button>

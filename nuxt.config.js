@@ -44,6 +44,7 @@ export default {
 
   snipcart: {
     key: "ODJjNjNjYTQtZmJlZC00MDVjLWI2ZmEtOTgxZGIxMGU0YmU5NjM3NDIxOTQxNjAwNjMwMTAw",
+    version: "3.4.0",
   },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
