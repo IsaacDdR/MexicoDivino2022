@@ -187,7 +187,7 @@
             >
             <button
               class="snipcart-add-item flex ml-auto text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded"
-              :data-item-url="'/'"
+              :data-item-url="'https://isaacddr.github.io/MexicoDivino2022'"
               :data-item-id="'Suscripcion'"
               :data-item-name="'Suscripcion Mexico Divino'"
               :data-item-price="499"
